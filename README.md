@@ -8,8 +8,8 @@ This repository showcases a Streamlit-based application that integrates MobileNe
   - **Custom CIFAR-10 Model**: Tailored for identifying images into ten distinct classes like airplanes, automobiles, and birds.
 
 - **User-Friendly Interface:**:
-  - **Sidebar Menu:**: Effortlessly toggle between the MobileNetV2 and CIFAR-10 models using a modern sidebar.
-  - **Instant Predictions:**: Upload an image to get predictions and confidence scores instantly.
+  - **Sidebar Menu**: Effortlessly toggle between the MobileNetV2 and CIFAR-10 models using a modern sidebar.
+  - **Instant Predictions**: Upload an image to get predictions and confidence scores instantly.
     
 - **For Learning and Real-World Use:**:
   - Perfect for exploring deep learning models and understanding their results.
